@@ -1,0 +1,4 @@
+hostName=http://abcd.effg.com
+hostNames: https://google.com
+hostName=https://www.google.com
+hostName:http://www.google.com
