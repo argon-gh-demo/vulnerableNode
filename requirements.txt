@@ -1,13 +1,13 @@
-Flask==0.10.1
-Jinja2==2.7.3
+Flask==2.2.5
+Jinja2==3.1.4
 MarkupSafe==0.23
-Werkzeug==0.9.6
+Werkzeug==3.0.3
 gnureadline==6.3.3
 itsdangerous==0.24
 rauth==0.7.0
-requests==2.3.0
+requests==2.6.0
 wsgiref==0.1.2
 certifi==2024.6.2
 
-gunicorn==18.0
+gunicorn==22.0.0
 Flask-SSLify==0.1.4
